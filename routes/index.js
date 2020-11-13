@@ -1,3 +1,8 @@
+/** File name: index.js
+    Author's name: Lei Han
+    website name: N/A
+    description: this is index js page, used for adding express route **/
+
 var express = require('express');
 var router = express.Router();
 
